@@ -1,0 +1,10 @@
+# Fichiers produits par make
+*.o
+/wcp_srv
+/wcp_clt
+
+# Rapport de rendu (contient des informations personnelles)
+*.pdf
+
+.DS_Store
+.vscode/
